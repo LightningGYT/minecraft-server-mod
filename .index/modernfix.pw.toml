@@ -1,0 +1,13 @@
+filename = 'modernfix-neoforge-5.19.3+mc1.21.1.jar'
+name = 'ModernFix'
+side = 'both'
+
+[download]
+hash = '17479d50370b139c781b65a1bdff4ab7931b6f62'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5659985
+project-id = 790626
